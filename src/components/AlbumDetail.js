@@ -32,12 +32,12 @@ const AlbumDetail = ({ album }) => {
       <CardSection>
         <Image
           style={imageStyle}
-          source={{ uri: image}}
+          source={{ uri: image }}
         />
       </CardSection>
 
       <CardSection>
-        <Button />
+        <Button onPress={() => console.log(title)} />
       </CardSection>
     </Card>
   );
