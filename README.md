@@ -1,6 +1,5 @@
 # Taylor Swift Albums for Sale!
-ReactNative Tutorial - from Stephen Grider's Udemy course
-https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview
+ReactNative Tutorial - from [Stephen Grider's Udemy course](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview)
 
 I learned:
 - How to generate a ReactNative project
@@ -11,4 +10,4 @@ I learned:
 - How to pass in data using a prop
 - How to make components reusable
 
-![Albums screenshot](http://imgur.com/ab7rbvh)
+![Albums screenshot](http://i.imgur.com/ab7rbvh.png)
